@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Random Number</string>
+    <string name="title_activity_main">Random Number of the Day</string>
+    <string name="number">3</string>
 </resources>
